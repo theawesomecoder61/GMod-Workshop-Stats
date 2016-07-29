@@ -17,5 +17,5 @@ I recommend that you head over to the Preferences (Command+Comma) and set the pa
 - Powered by:
   - [Steam Web API](http://steamcommunity.com/dev)
   - gmpublish (which is included in Garry's Mod)
-- The font used in the icon is the same used in the Garry's Mod icon: [Coolvetica](http://www.dafont.com/coolvetica.font)
-- This is a program made for fun, though it truly is useful. This program and its creator (myself) are not affiliated with Valve nor Facepunch Studios.
+- The font used in the icon is the same used in the Garry's Mod icon, [Coolvetica](http://www.dafont.com/coolvetica.font).
+- This is a program made for fun, though it is truly useful. This program and its creator (myself) are not affiliated with Valve nor Facepunch Studios.
