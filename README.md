@@ -1,5 +1,5 @@
 # GMod Workshop Stats
-A beautiful program for Mac OS X Yosemite or later (10.10+) for viewing your uploads to the Garry's Mod Workshop.
+A beautiful program for Mac OS X 10.10+ for viewing your uploads to the Garry's Mod Workshop.
 
 # Presented to you in a lovely UI
 The user interface is beautiful and simplistic because I feel that information should be presented without clutter and disorganization.
